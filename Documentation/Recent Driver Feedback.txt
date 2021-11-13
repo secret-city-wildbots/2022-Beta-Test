@@ -1,0 +1,22 @@
+--- Rogue feedback on 2/6
+> strafing right instead of going forward
+
+--- Pete feedback on 2/13
+> Pete strafing left as if module 2 was out
+> Pete turning on its own; turning more with lock off
+> battery draining quickly
+
+--- Pete on 2/20
+> TeleOp code was working well
+> Power utilization seemed reasonable
+> We need to tune the decceleration hysteresis as oppsed to just disabling it
+
+---The Child on 2/27
+> There were problems with the drive Falcon on Module #3 that were causing all sorts of driving problems.
+
+---The Child on 3/1
+> Can accelerate faster at start of auto plays
+> Dramatically widen the stop critera for the ends of most of the paths
+
+---The Child on 3/20
+> Nees force low gear button, preferrably right bumper
